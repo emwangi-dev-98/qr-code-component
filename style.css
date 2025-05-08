@@ -16,17 +16,17 @@ body{
      max-width: 500px; 
      border-radius: 20px;
     }
- img{
+img{
      max-height:300px;
      width:auto;
       border-radius: 20px;
     }
- h2{ 
+h2{ 
     font-weight: 300; 
     font-size: 25px; 
     color: burlywood;
 }
- p{
+p{
     font-size: 15px;
 }
 .attribution { 
